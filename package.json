@@ -1,0 +1,9 @@
+{
+  "name": "aula-terraform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estatico publicado com Wrangler pela pipeline Jenkins",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
